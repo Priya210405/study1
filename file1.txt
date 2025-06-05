@@ -1,1 +1,1 @@
-THis is file 1 from study1 repository under branch main...mow changes are being made
+THis is file 1 from study1 repository under branch main...mow changes are being made..now i m making changes in github reposiory and soon that will be reflected in loacl folder too
